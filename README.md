@@ -2,7 +2,7 @@
 
 Final project for the Application Development Fundamentals and the Coding Fundamentals courses at IBS.
 
-![screenshot](images/wanderer_kitti.jpg)
+![screenshot](Images/wanderer_kitti.jpg)
 
 ## Setup
 
